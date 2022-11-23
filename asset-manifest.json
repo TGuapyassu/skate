@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skate/static/css/main.2d4f020d.css",
+    "main.js": "/skate/static/js/main.bf88c8d3.js",
+    "static/media/banner-2.jpg": "/skate/static/media/banner-2.c56c1355908c07da87ce.jpg",
+    "static/media/banner.jpg": "/skate/static/media/banner.ba0fb793be37e6a2956d.jpg",
+    "static/media/banner-3.jpg": "/skate/static/media/banner-3.21044464866c8ad93180.jpg",
+    "static/media/tony-1.jpg": "/skate/static/media/tony-1.1d2bd7e40b910bece13f.jpg",
+    "static/media/skt-2.jpg": "/skate/static/media/skt-2.d945c7fd783a6cdd2b03.jpg",
+    "static/media/skt-3.jpeg": "/skate/static/media/skt-3.818079eafd826a41c583.jpeg",
+    "static/media/skt-1.jpg": "/skate/static/media/skt-1.3d79f8185f577b33053b.jpg",
+    "static/media/tony-3.jpg": "/skate/static/media/tony-3.221eb9e3ef450d580876.jpg",
+    "static/media/tony-2.jpg": "/skate/static/media/tony-2.7c408b43fcd4e4bc8177.jpg",
+    "index.html": "/skate/index.html",
+    "main.2d4f020d.css.map": "/skate/static/css/main.2d4f020d.css.map",
+    "main.bf88c8d3.js.map": "/skate/static/js/main.bf88c8d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4f020d.css",
+    "static/js/main.bf88c8d3.js"
+  ]
+}
